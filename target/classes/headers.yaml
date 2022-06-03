@@ -1,0 +1,47 @@
+
+headers:
+      ICICI-SAVING:
+                - S No.
+                - Value Date
+                - Transaction Date
+                - Cheque Number
+                - Transaction Remarks
+                - Withdrawal Amount (INR )
+                - Deposit Amount (INR )
+                - Balance (INR )
+                                        
+      HDFC-SAVING:
+                - Date
+                - Narration
+                - Chq./Ref.No.
+                - Value Dt
+                - Withdrawal Amt.
+                - Deposit Amt.
+                - Closing Balance
+
+      ZETA-PREPAID:
+                - Date & Time of Balance
+                - Card type
+                - Transaction ID
+                - Transaction Details
+                - Credit(in Rs.)
+                - Debit(in Rs.)
+                - Previous Balance(in Rs.)
+                - New Balance(in Rs.)
+
+narration:
+      ICICI-SAVING:
+                  Transaction Remarks 
+      HDFC-SAVING:
+                  Narration
+                  
+                  
+footers:                                        
+      ICICI-SAVING:
+                        - Legends Used in Account Statement
+                                        
+      HDFC-SAVING:
+                        - '********'                                   
+                      
+      ZETA-PREPAID:
+                        -                  
